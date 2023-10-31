@@ -48,4 +48,7 @@ Welcome! 🌊 I am Tanmay Gupta
 </div>
 
 <br /><br /><br />
+
+<br /><br /><br />
+
 <b>[*More projects*](https://github.com/tanmaygupta100?tab=repositories)</b>
