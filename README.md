@@ -8,7 +8,7 @@ Welcome! 🌊 I am Tanmay Gupta
 * ✉️  You can contact me at [getgupta.tg@gmail.com](mailto:getgupta.tg@gmail.com)
 * 💻 Proficient in: Python, Java, C++, MATLAB, C#, JavaScript, Object Oriented Programming/Design Windows, Linux, FPGA, SQLite, Tcl-Tk, JSON, UML, Agile, Scrum
 
-### Skills
+### Software/Programming:
 
 
 <p align="left">
@@ -16,7 +16,7 @@ Welcome! 🌊 I am Tanmay Gupta
 </p>
 
 
-### Badges
+### Projects:
 
 <b>Top Repositories</b>
 
