@@ -2,7 +2,7 @@
 <!--<img width="15%" src="https://www.vaporwave.farm/static/media/vwaveSpin.ee33339a.gif" align="left" />-->
 <img width="6%" src="https://mikael.neocities.org/collections/disc-gifs/cd_004.gif" align="right" />
 
-`Tanmay Gupta`
+Tanmay Gupta
 =========
 
 *Software Engineering student @ Penn State University*
