@@ -4,8 +4,8 @@ Welcome! 🌊 I am Tanmay Gupta
 \- Software Engineering student @ Penn State University
 -------------------------------------------------------
 
-* 🌍 <span style="color:#64748b;">I'm based in Vancouver and Philadelphia</span>
-* ✉️  <span style="color:#64748b;">You can contact me at [getgupta.tg@gmail.com](mailto:getgupta.tg@gmail.com)</span>
+* 🌍 I'm based in Vancouver and Philadelphia
+* ✉️  <span style="color:#64748b;">You can contact me at [getgupta.tg@gmail.com](mailto:getgupta.tg@gmail.com)
 * 💻 <span style="color:#64748b;">Proficient in: Python, Java, C++, MATLAB, C#, JavaScript, Object Oriented Programming/Design Windows, Linux, FPGA, SQLite, Tcl-Tk, JSON, UML, Agile, Scrum</span>
 
 ### Software/Programming:
@@ -19,6 +19,7 @@ Welcome! 🌊 I am Tanmay Gupta
 ### Featured Projects:
 
 <b>*More repositories available in 2nd tab*</b>
+<b>[*More projects*](https://github.com/tanmaygupta100?tab=repositories)</b>
 
 <div width="100%" align="center"><a href="https://github.com/tanmaygupta100/DataStructures-Algorithms" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=DataStructures-Algorithms&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tanmaygupta100/ObjectOrientedProgramming-Java" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=ObjectOrientedProgramming-Java&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
 
