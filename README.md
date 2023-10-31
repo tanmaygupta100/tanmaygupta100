@@ -44,4 +44,5 @@ Welcome! 🌊 I am Tanmay Gupta
   <img width="35%" src="https://i.imgur.com/LrJBdmJ.gif" align="right" />
   <img width="10%" src="https://i.gifer.com/origin/26/26b37fd815cc47709360f953812f9185_w200.gif" align="right" />
 </div>
+
 <b>[*More projects*](https://github.com/tanmaygupta100?tab=repositories)</b>
