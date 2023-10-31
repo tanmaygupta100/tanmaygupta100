@@ -24,11 +24,13 @@ Welcome! 🌊 I am Tanmay Gupta
 
 <br /><br /><br />
 
-<div width="100%" align="center">
-  <a href="https://github.com/tanmaygupta100/RaspberryPi-PythonGUI" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=RaspberryPi-PythonGUI&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
+<div style="text-align: center;">
+  <a href="https://github.com/tanmaygupta100/RaspberryPi-PythonGUI">
+    <img style="width: 45%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=RaspberryPi-PythonGUI&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <img width="7%" src="https://i.gifer.com/origin/26/26b37fd815cc47709360f953812f9185_w200.gif" style="vertical-align: top;" />
-  <img width="35%" src="https://i.imgur.com/LrJBdmJ.gif" />
-  <img width="7%" src="https://i.gifer.com/origin/26/26b37fd815cc47709360f953812f9185_w200.gif" />
+  <div style="display: inline-block; vertical-align: top;">
+    <img style="width: 7%;" src="https://i.gifer.com/origin/26/26b37fd815cc47709360f953812f9185_w200.gif" />
+    <img style="width: 35%;" src="https://i.imgur.com/LrJBdmJ.gif" />
+    <img style="width: 7%;" src="https://i.gifer.com/origin/26/26b37fd815cc47709360f953812f9185_w200.gif" />
+  </div>
 </div>
