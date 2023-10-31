@@ -28,7 +28,7 @@ Welcome! 🌊 I am Tanmay Gupta
   <a href="https://github.com/tanmaygupta100/RaspberryPi-PythonGUI" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=RaspberryPi-PythonGUI&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <img width="7%" src="https://i.gifer.com/origin/26/26b37fd815cc47709360f953812f9185_w200.gif" style="padding-right: 10px;" />
-  <img width="35%" src="https://i.imgur.com/LrJBdmJ.gif" style="padding-right: 10px;" />
-  <img width="7%" src="https://i.gifer.com/origin/26/26b37fd815cc47709360f953812f9185_w200.gif" style="padding-right: 10px;" />
+  <img width="7%" src="https://i.gifer.com/origin/26/26b37fd815cc47709360f953812f9185_w200.gif" style="padding-right: 50px;" />
+  <img width="35%" src="https://i.imgur.com/LrJBdmJ.gif" style="padding-right: 50px;" />
+  <img width="7%" src="https://i.gifer.com/origin/26/26b37fd815cc47709360f953812f9185_w200.gif" style="padding-right: 50px;" />
 </div>
