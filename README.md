@@ -1,16 +1,18 @@
 <!--<img width="10%" src="https://media0.giphy.com/media/Rfk6tKMreyCiuWQUpF/giphy.gif" align="left" />-->
 <!--<img width="15%" src="https://www.vaporwave.farm/static/media/vwaveSpin.ee33339a.gif" align="left" />-->
-<img width="6%" src="https://mikael.neocities.org/collections/disc-gifs/cd_004.gif" align="left" />
+<img width="6%" src="https://mikael.neocities.org/collections/disc-gifs/cd_004.gif" align="right" />
 
-Welcome
-====================================================================================================================================
+`Welcome!`
+=========
 
-Tanmay Gupta, *Software Engineering student @ Penn State University*
+Tanmay Gupta - *Software Engineering student @ Penn State University*
 -------------------------------------------------------
 
 * 🌍 Based: Vancouver, Philadelphia, Seattle
 * ✉️  Contact: [getgupta.tg@gmail.com](mailto:getgupta.tg@gmail.com)
 * 💻 Proficiency: Object Oriented Programming/Design, Scrum Team Experience, & Agile Methodologies
+
+-------------------------------------------------------
 
 ### Software/Hardware/Programming:
 
