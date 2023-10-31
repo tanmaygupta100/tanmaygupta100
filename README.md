@@ -1,7 +1,7 @@
 Welcome! 🌊 I am Tanmay Gupta
 ====================================================================================================================================
 
-\- Software Engineering student @ Penn State University
+\- *Software Engineering student @ Penn State University*
 -------------------------------------------------------
 
 * 🌍 Based: Vancouver, Philadelphia, Seattle
