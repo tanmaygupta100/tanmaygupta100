@@ -4,9 +4,9 @@ Welcome! 🌊 I am Tanmay Gupta
 \- Software Engineering student @ Penn State University
 -------------------------------------------------------
 
-* 🌍 I'm based in Vancouver and Philadelphia
-* ✉️  <span style="color:#64748b;">You can contact me at [getgupta.tg@gmail.com](mailto:getgupta.tg@gmail.com)
-* 💻 <span style="color:#64748b;">Proficient in: Python, Java, C++, MATLAB, C#, JavaScript, Object Oriented Programming/Design Windows, Linux, FPGA, SQLite, Tcl-Tk, JSON, UML, Agile, Scrum</span>
+* 🌍 Based: Vancouver and Philadelphia
+* ✉️  Contact: [getgupta.tg@gmail.com](mailto:getgupta.tg@gmail.com)
+* 💻 Proficient in: Python, Java, C++, MATLAB, C#, PHP, JavaScript HTML, JavaScript, Object Oriented Programming/Design Windows, Linux, FPGA, SQLite, Tcl-Tk, JSON, UML, Agile, Scrum
 
 ### Software/Programming:
 
