@@ -1,6 +1,6 @@
 <!--<img width="10%" src="https://media0.giphy.com/media/Rfk6tKMreyCiuWQUpF/giphy.gif" align="left" />-->
 <!--<img width="15%" src="https://www.vaporwave.farm/static/media/vwaveSpin.ee33339a.gif" align="left" />-->
-<img width="5%" src="https://mikael.neocities.org/collections/disc-gifs/cd_004.gif" align="left" />
+<img width="6%" src="https://mikael.neocities.org/collections/disc-gifs/cd_004.gif" align="left" />
 
 Welcome
 ====================================================================================================================================
