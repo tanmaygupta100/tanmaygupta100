@@ -32,9 +32,4 @@ Welcome! 🌊 I am Tanmay Gupta
 </div>
 <br /><br />
 
-
-<div width="100%" align="center"><a href="https://github.com/tanmaygupta100/RaspberryPi-PythonGUI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=DataStructures-Algorithms&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tanmaygupta100/ObjectOrientedProgramming-Java" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=ObjectOrientedProgramming-Java&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br />
-
-https://instagram.fcxh3-1.fna.fbcdn.net/v/t51.2885-15/289300481_1268152380658584_5193558362359200716_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=instagram.fcxh3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=5EQLR2t_mUsAX_6Vb-Q&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjg2NDg0NjYwNTA5NTIwNTEzOQ%3D%3D.2-ccb7-5&oh=00_AfC3grRUZ6m-gzeTg42iyk4HP3c5kZgFK8kPAY1rIs-wsA&oe=65449BE8&_nc_sid=b41fef
-
 <div width="100%" align="center"><a href="https://github.com/tanmaygupta100/RaspberryPi-PythonGUI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=RaspberryPi-PythonGUI&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
