@@ -6,7 +6,7 @@ Welcome! 🌊 I am Tanmay Gupta
 
 * 🌍 Based: Vancouver, Philadelphia, Seattle
 * ✉️  Contact: [getgupta.tg@gmail.com](mailto:getgupta.tg@gmail.com)
-* 💻 Proficiency: Python, Java, C++, MATLAB, Raspberry Pi, FPGA, C#, PHP, JavaScript, HTML, Object Oriented Programming/Design Windows, Linux, MacOS, SQLite, Tcl-Tk, JSON, UML, Agile, Scrum
+* 💻 Proficiency: Object Oriented Programming/Design, Scrum Team Experience, & Agile Methodologies
 
 ### Software/Programming:
 
