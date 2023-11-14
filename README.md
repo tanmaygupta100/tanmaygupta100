@@ -10,7 +10,7 @@ Tanmay Gupta
 
 * Based: Vancouver, Philadelphia, Seattle
 * Contact: [getgupta.tg@gmail.com](mailto:getgupta.tg@gmail.com)
-* Proficiency: Object Oriented Programming/Design, Scrum Team Experience, & Agile Methodologies
+* Proficiency: Object Oriented Programming/Design, Scrum Team Experience, Agile Methodologies, Data Structures & Algorithms
 
 -------------------------------------------------------
 
