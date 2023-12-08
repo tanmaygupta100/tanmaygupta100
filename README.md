@@ -62,8 +62,8 @@ Tanmay Gupta
 <div width="100%" align="center"><a href="https://github.com/tanmaygupta100/Reccy-MusicRecommender" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=Reccy-MusicRecommender&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tanmaygupta100/WordGuesser" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=WordGuesser&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
 <br /><br /><br />
 <div width="100%" align="center">
-  <a href="https://github.com/tanmaygupta100/ObjectOrientedProgramming-Java" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=ObjectOrientedProgramming-Java&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/tanmaygupta100/TheNucleusMachine" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=TheNucleusMachine&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <img width="35%" src="https://i.imgur.com/LrJBdmJ.gif" align="right" />
   <img width="10%" src="https://i.gifer.com/origin/26/26b37fd815cc47709360f953812f9185_w200.gif" align="right" />
