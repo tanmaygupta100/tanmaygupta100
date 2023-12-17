@@ -61,9 +61,7 @@ Tanmay Gupta
 
 
 <div align="left">
-  <a href="https://github.com/tanmaygupta100/GradientDesigner" style="width: 45%;">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=GradientDesigner&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+
   <a href="https://github.com/tanmaygupta100/TheNucleusMachine" style="width: 45%;">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaygupta100&repo=TheNucleusMachine&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
