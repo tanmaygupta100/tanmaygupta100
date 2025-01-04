@@ -3,15 +3,15 @@
   
   <div id="Headers">
     <h1>Tanmay Gupta</h1>
-    <h2><em>Software Engineering Student @ Penn State University</em></h2>
+    <h2><em>Software Engineer, Penn State University</em></h2>
   </div>
   
   <div id="Bulleted Details">
     <p>
       <ul>
-        <li>Based: <em>Vancouver, Philadelphia, Seattle</em></li>
         <li>Contact: <em><a href="mailto:getgupta.tg@gmail.com">getgupta.tg@gmail.com</a></em></li>
-        <li>Proficiency: <em>Object Oriented Programming/Design, Agile Team Experience, Scrum Methodologies, Data Structures & Algorithms, Databases, Design Patterns</em></li>
+        <li>Main Proficiencies: <em>JavaScript, React.js, HTML, CSS, PHP</em></li>
+        <li>Education: <em>Object Oriented Programming/Design, Agile, Data Structures & Algorithms, Databases, Design Patterns</em></li>
       </ul>
     </p>
   </div>
