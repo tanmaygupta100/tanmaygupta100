@@ -64,8 +64,8 @@
     <div id="2nd row of panels" align="left">
       <a href="https://github.com/SimonChaw/laravel-pokemon-capitalist" style="width: 45%;">
         <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SimonChaw&repo=laravel-pokemon-capitalist&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
-      <a href="https://github.com/SimonChaw/laravel-pokedex" style="width: 45%;">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SimonChaw&repo=laravel-pokedex&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
+      <a href="https://github.com/dlutton/haiku-generator" style="width: 45%;">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dlutton&repo=haiku-generator&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a>
     </div>
     <br>
     <div id="Images" align="left">
